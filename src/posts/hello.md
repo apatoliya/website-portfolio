@@ -1,5 +1,5 @@
 ---
-title: "Hello Friend"
+title: "Hello Friend Content is Coming Soon!!!"
 path: "/hello"
 date: "2019-01-17"
 coverImage: "../images/hello.jpg"
